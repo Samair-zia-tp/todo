@@ -1,5 +1,24 @@
 .App {
   text-align: center;
+  margin: 0 auto;
+}
+.App h2{
+  font-size: 24px;
+  margin: 40px 0;
+  font-weight: 600;
+  color: #000;
+}
+.App button{
+  background: #61dafb;
+  color: #000;
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+  outline: none;
+  font-size: 14px;
+  font-weight: 500;
+  letter-spacing: 1px;
+  margin-bottom: 30px;
 }
 
 .App-logo {
